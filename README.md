@@ -11,4 +11,4 @@ NOTE: Make sure the image folder is in the same folder as the game file, to run 
 <img src="https://i.imgur.com/AjdGdZg.png" height="80%" width="80%" alt="level 3"/> <br>
 <img src="https://i.imgur.com/XmxaDln.png" height="80%" width="80%" alt="level 5"/> <br>
 <img src="https://i.imgur.com/QE1dByn.png" height="80%" width="80%" alt="boss"/> <br>
-<img src="https://i.imgur.com/ii5kWKI.pn" height="80%" width="80%" alt="map"/> <br>
+<img src="https://i.imgur.com/ii5kWKI.png" height="80%" width="80%" alt="map"/> <br>
